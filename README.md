@@ -9,3 +9,4 @@
 7. Francisco Reyes [@Francis318](https://github.com/Francis318)
 8. Luis Eduardo Candaudap [@ecandaudap](https://github.com/ecandaudap)
 9. Jesus Camacho [@guss87](https://github.com/guss87)
+10. Guadalupe Llamas [@lupitallamas](git@github.com:KOD-MBEP-1/nosotros.git)
