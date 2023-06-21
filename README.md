@@ -11,4 +11,5 @@
 9. Jesus Camacho [@guss87](https://github.com/guss87)  
 10. Mike Valencia [@MikeVale16](https://github.com/MikeVale16)
 11. Julio Cesar [@juliusKaesars](https://github.com/juliusKaesars)
-
+12. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
+13. Miren Llamas [@lupitallamas](git@github.com:KOD-MBEP-1/nosotros.git)
