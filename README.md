@@ -14,4 +14,3 @@
 12. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
 13. Jorge Roque [@georgeRunner](https://github.com/GeorgeRunner)
 14. Miren Llamas [@lupitallamas](git@github.com:KOD-MBEP-1/nosotros.git)
-
