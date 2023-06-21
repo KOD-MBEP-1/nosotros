@@ -13,4 +13,5 @@
 11. Julio Cesar [@juliusKaesars](https://github.com/juliusKaesars)
 12. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
 13. Jorge Roque [@georgeRunner](https://github.com/GeorgeRunner)
-14. Miren Llamas [@lupitallamas]
+14. Juan Rivera [@juanjarz](https://github.com/juanjarz)
+15. Miren Llamas [@lupitallamas](https://github.com/lupitallamas)
