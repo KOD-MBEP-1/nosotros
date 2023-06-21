@@ -12,3 +12,4 @@
 10. Mike Valencia [@MikeVale16](https://github.com/MikeVale16)
 11. Julio Cesar [@juliusKaesars](https://github.com/juliusKaesars)
 12. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
+13. Jorge Roque [@georgeRunner](https://github.com/GeorgeRunner)
