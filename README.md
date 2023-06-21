@@ -5,3 +5,4 @@
 3. Jose De Anda [@josdandar](https://github.com/Josdandar)
 4. Rodrigo Zavala [@rockzt](https://github.com/rockzt)
 5. Paco Rivera [@DevPaco1](https://github.com/DevPaco1)
+6. Mike Valencia [@MikeVale16](https://github.com/MikeVale16)
