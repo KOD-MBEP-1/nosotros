@@ -5,6 +5,7 @@
    <<<<<<< HEAD
 3. Jose De Anda [@josdandar](https://github.com/Josdandar)
 4. Rodrigo Zavala [@rockzt](https://github.com/rockzt)
+<<<<<<< HEAD
    <<<<<<< HEAD
    =======
 5. Jesus Camacho [@guss87](https://github.com/guss87)
@@ -13,3 +14,7 @@
 7. Paco Rivera [@DevPaco1](https://github.com/DevPaco1)
    > > > > > > > main
    > > > > > > > git
+=======
+5. Paco Rivera [@DevPaco1](https://github.com/DevPaco1)
+6. Martin Juarez [@Martin-Juarez](https://github.com/Martin-Juarez)
+>>>>>>> main
