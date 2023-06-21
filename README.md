@@ -8,4 +8,5 @@
 6. Martin Juarez [@Martin-Juarez](https://github.com/Martin-Juarez)
 7. Francisco Reyes [@Francis318](https://github.com/Francis318)
 8. Luis Eduardo Candaudap [@ecandaudap](https://github.com/ecandaudap)
+9. Jesus Camacho [@guss87](https://github.com/guss87)
 9. Julio Cesar [@juliusKaesars](https://github.com/juliusKaesars)
