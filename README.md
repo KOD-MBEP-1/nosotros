@@ -9,5 +9,6 @@
 7. Francisco Reyes [@Francis318](https://github.com/Francis318)
 8. Luis Eduardo Candaudap [@ecandaudap](https://github.com/ecandaudap)
 9. Jesus Camacho [@guss87](https://github.com/guss87)
-
-10. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
+10. Mike Valencia [@MikeVale16](https://github.com/MikeVale16)
+11. Julio Cesar [@juliusKaesars](https://github.com/juliusKaesars)
+12. Mauricio Martinez [@MauMS86](https://github.com/MauMS86)
